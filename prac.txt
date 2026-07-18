@@ -1,0 +1,1 @@
+This is a practist run creating prac.txt and editing it with nano in the CLI in VS code then pushing it to Github
