@@ -1,0 +1,11 @@
+This is a step by step test to see if i have learnt anything 
+First I create the file with touch in my CLI
+Second I use nano with the file name to edit the file
+Third I save the File ctlr S
+Then Exit 
+
+I use git add Filename.extention
+I use git status to see if it added
+I use git commit -m "Add Filename.extention"
+I use git push to send it
+
