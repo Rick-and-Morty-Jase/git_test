@@ -1,0 +1,2 @@
+Hello my name is Joshua and I really enjoy writing code.
+I am practising my git and github hub cli commands and getting comfortable with my setup
